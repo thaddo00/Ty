@@ -1,4 +1,4 @@
-package com.jack.network;
+package network;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
-import com.jack.entities.Player;
+import entities.Player;
 
 public class Client {
 	

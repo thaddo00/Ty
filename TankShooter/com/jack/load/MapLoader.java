@@ -9,7 +9,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 import com.jack.main.Game_Main;
-import com.jack.util.Util;
 
 import entities.AmmoPack;
 import entities.Boundary;
@@ -17,6 +16,7 @@ import entities.BreakableBoundary;
 import entities.Enemy;
 import entities.HealthPack;
 import entities.Item;
+import util.Util;
 
 public class MapLoader {
 

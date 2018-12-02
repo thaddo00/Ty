@@ -6,8 +6,9 @@ import java.awt.Rectangle;
 import java.util.concurrent.TimeUnit;
 
 import com.jack.main.Game_Main;
-import com.jack.network.Connection;
-import com.jack.util.Util;
+
+import network.Connection;
+import util.Util;
 
 public class Enemy extends Player {
 

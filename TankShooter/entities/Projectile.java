@@ -5,7 +5,8 @@ import java.awt.Point;
 import java.awt.Rectangle;
 
 import com.jack.main.Game_Main;
-import com.jack.util.Util;
+
+import util.Util;
 
 public class Projectile {
 

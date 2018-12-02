@@ -1,4 +1,4 @@
-package com.jack.util;
+package util;
 
 public class RefStrings {
 

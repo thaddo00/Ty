@@ -1,4 +1,4 @@
-package com.jack.network;
+package network;
 
 import java.awt.Color;
 import java.awt.Point;
@@ -12,11 +12,12 @@ import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyleContext;
 
-import com.jack.entities.Player;
-import com.jack.entities.Projectile;
 import com.jack.main.Frame;
 import com.jack.main.Game_Main;
-import com.jack.util.RefStrings;
+
+import entities.Player;
+import entities.Projectile;
+import util.RefStrings;
 
 public class Connection {
 

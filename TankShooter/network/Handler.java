@@ -1,13 +1,14 @@
-package com.jack.network;
+package network;
 
 import java.awt.Color;
 import java.awt.Point;
 
-import com.jack.entities.Player;
-import com.jack.entities.Projectile;
 import com.jack.main.Game_Main;
 import com.jack.main.Game_Server;
-import com.jack.util.RefStrings;
+
+import entities.Player;
+import entities.Projectile;
+import util.RefStrings;
 
 public class Handler {
 	
