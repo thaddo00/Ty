@@ -1,4 +1,4 @@
-package com.jack.entities;
+package entities;
 
 public class Ammo {
 
