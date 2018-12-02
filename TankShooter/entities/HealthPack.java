@@ -1,4 +1,4 @@
-package com.jack.entities;
+package entities;
 
 import java.awt.Color;
 import java.awt.Rectangle;
