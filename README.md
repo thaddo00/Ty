@@ -1,1 +1,1 @@
-# Ty
+# Ty and Kendra
