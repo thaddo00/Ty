@@ -1,12 +1,13 @@
-package com.jack.network;
+package network;
 
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
-import com.jack.entities.Player;
 import com.jack.main.Game_Server;
+
+import entities.Player;
 
 public class Dispatcher implements Runnable {
 	

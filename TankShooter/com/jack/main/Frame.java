@@ -20,10 +20,9 @@ import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyleContext;
 
-import com.jack.util.Util;
-
 import entities.Player;
 import entities.Projectile;
+import util.Util;
 
 import javax.swing.JTextArea;
 import javax.swing.JButton;

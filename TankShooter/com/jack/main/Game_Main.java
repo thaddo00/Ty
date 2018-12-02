@@ -18,9 +18,6 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 import com.jack.load.Map;
 import com.jack.load.MapLoader;
-import com.jack.network.Connection;
-import com.jack.util.RefStrings;
-import com.jack.util.Util;
 
 import entities.AmmoPack;
 import entities.Boundary;
@@ -30,6 +27,9 @@ import entities.HealthPack;
 import entities.Item;
 import entities.Player;
 import entities.Projectile;
+import network.Connection;
+import util.RefStrings;
+import util.Util;
 
 import com.jack.maps.*;
 

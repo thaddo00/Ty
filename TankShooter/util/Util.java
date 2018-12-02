@@ -1,4 +1,4 @@
-package com.jack.util;
+package util;
 
 import java.awt.Point;
 import java.awt.Rectangle;
@@ -6,7 +6,7 @@ import java.awt.Shape;
 import java.awt.geom.Area;
 import java.util.ArrayList;
 
-import com.jack.entities.Boundary;
+import entities.Boundary;
 
 public class Util {
 

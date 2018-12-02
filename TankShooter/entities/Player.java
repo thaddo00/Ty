@@ -7,8 +7,9 @@ import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 
 import com.jack.main.Game_Main;
-import com.jack.network.Connection;
-import com.jack.util.Util;
+
+import network.Connection;
+import util.Util;
 
 public class Player {
 

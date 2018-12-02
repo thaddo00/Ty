@@ -6,9 +6,9 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
-import com.jack.network.Client;
-import com.jack.network.Dispatcher;
-import com.jack.util.RefStrings;
+import network.Client;
+import network.Dispatcher;
+import util.RefStrings;
 
 public class Game_Server {
 	
